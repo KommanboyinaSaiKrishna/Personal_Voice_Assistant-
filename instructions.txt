@@ -1,0 +1,30 @@
+
+
+
+
+Online Operations
+
+speak what's the time / what is time => It will tell the time 
+speak what is battery percentage => It wil tell the percentage of battery
+speak mute to mute the volume
+speak unmute to unmute the volume 
+speak decrease the volume to decrease volume 
+speak increase the volume to increase volume 
+
+
+
+
+
+
+
+
+
+How to run the program
+
+Type the command 
+python main.py 
+to run the program
+
+Okasari run chey <div class="row">
+    Okasari
+</div>
