@@ -11,3 +11,5 @@ available, with different categories of support, and examine the potential
 usefulness of one specific piece of software as a VPA. This engages the ability 
 to communicate socially through natural language processing, holding (and 
 analysing) information within the context of the user.  
+
+
